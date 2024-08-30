@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CadastroClienteFCC.Api.props" />
+</Project>
